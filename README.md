@@ -9,10 +9,11 @@
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
 ### Create and run Auto ML Experiment
 - Bankmarketing Dataset uploaded to ML Studio
-   <img width="933" alt="Registered Bankmarketing Dataset available" src="https://github.com/user-attachments/assets/616b3df4-3a6c-466a-a930-f7b0bd803def">
- 
+    <img width="937" alt="Registered Bankmarketing Dataset available" src="https://github.com/user-attachments/assets/8ed32a91-92ad-4f27-89ae-7a8c570481c2">
+
 - Auto ML Experiment finished running and result of best model:
-   <img width="1003" alt="Completed Experiment and Best model" src="https://github.com/user-attachments/assets/dd829cbe-e686-468c-95ee-0ec1769f6d55">
+
+   <img width="1002" alt="Completed Experiment and Best model6" src="https://github.com/user-attachments/assets/d388eed5-871d-4347-a461-3b264c850641">
 
 ### Deploy the best model
 
