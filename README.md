@@ -47,20 +47,31 @@ In this project, I started by running an Auto ML experiment with the classificat
 
 ### 4. Create, Publish and Consume a Pipeline
 - Pipeline has been created
-  
+
+  <img width="1238" alt="pipeline created" src="https://github.com/user-attachments/assets/91af668e-851d-4090-9bbf-0bc63d2d2635">
+
 - Pipeline endpoint
-  
+
+  <img width="1241" alt="pipeline endpoint" src="https://github.com/user-attachments/assets/48e01b76-b99b-4f5a-9db3-419ddea9f498">
+
 - Bankmarketing dataset with AutoML module
+
+  <img width="681" alt="pipeline visualized" src="https://github.com/user-attachments/assets/8606d088-d502-49cf-8506-6887ef846279">
+
   
 - 'Published pipeline overview' showing a REST endpoint and a status of ACTIVE
-  
+
+  <img width="1238" alt="published pipeline overview" src="https://github.com/user-attachments/assets/ad8a75ce-2c97-440e-ac6b-3e472b3b872e">
+
 - In Jupyter Notebook, showing that 'Use RunDetails Widget' shows the step runs
+
+  <img width="987" alt="steps run" src="https://github.com/user-attachments/assets/8fdf5aee-bfc3-4972-ab3d-ed2a5207b75e">
   
-- In ML Studio showing scheduled run
+- In ML Studio showing run jobs
+
+  <img width="1252" alt="run jobs" src="https://github.com/user-attachments/assets/7d42b60e-7909-403c-9fac-05223868eb90">
+
   
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
-## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
-
+[Screencast on Youtube](https://youtu.be/H679kVAIDHQ)
