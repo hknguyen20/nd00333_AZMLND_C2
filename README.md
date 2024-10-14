@@ -68,6 +68,8 @@ In this project, I started by running an Auto ML experiment with the classificat
   <img width="987" alt="steps run" src="https://github.com/user-attachments/assets/8fdf5aee-bfc3-4972-ab3d-ed2a5207b75e">
   
 - In ML Studio showing run jobs
+  
+  *Saw Running and Completed status but no 'scheduled' status, probably cuz have available resource run right away?*
 
   <img width="1252" alt="run jobs" src="https://github.com/user-attachments/assets/7d42b60e-7909-403c-9fac-05223868eb90">
 
